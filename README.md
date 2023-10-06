@@ -3,4 +3,5 @@ This demo uses langchain. OpenAI and Streamlit. Uses langchain's Youtube loader 
 Run the demo locally
 
 pip install -r requirements.txt
+
 streamlit run summarizer.py
